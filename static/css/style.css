@@ -1,0 +1,31 @@
+/* CSS Reset */
+* {
+margin: 0;
+padding: 0;
+}
+
+/* body */
+body {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header */
+h1 {
+    margin: 10px;
+    padding: 10px;
+}
+
+/* table */
+table {
+    border-collapse: collapse;
+}
+
+/* table data */
+td {
+    width: 80px;
+    height: 80px;
+}
+/* end of body */
